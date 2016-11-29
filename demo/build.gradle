@@ -20,6 +20,8 @@ android {
 }
 
 dependencies {
-    compile project(':library')
+//    compile project(':library')
     compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'br.com.liveo:navigationdrawer-material:2.5.1'
+
 }

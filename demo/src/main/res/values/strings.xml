@@ -21,7 +21,7 @@
     <string name="sign_in">Sign in</string>
 
     <string name="inbox">Inbox</string>
-    <string name="starred">Starred</string>
+    <string name="starred">Started</string>
     <string name="sent_mail">Sent Mail</string>
     <string name="drafts">Drafts</string>
     <string name="categories">Categories</string>
